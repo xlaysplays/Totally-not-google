@@ -1,0 +1,26 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 100px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.shortcuts a {
+  display: inline-block;
+  margin: 20px;
+  color: #00ffcc;
+  text-decoration: none;
+  font-weight: bold;
+}
